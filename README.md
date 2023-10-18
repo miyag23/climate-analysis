@@ -7,4 +7,4 @@ To install copy of the toolkit, open a terminal and run:
 git clone git@github.com/miyag23/climate-analysis/
 ...
 
-**This code is currently in development and not all features will work
+**This code is currently in development and not all features will work**
